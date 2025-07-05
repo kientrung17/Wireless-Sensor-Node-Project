@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ESP32_FINAL.PcbDoc   4/13/2024  6:53:20 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ESP32_FINAL-RoundHoles.TXT
+ASCII SlotHoles File : ESP32_FINAL-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.305mm (12mil)                                           Round             5         PTH        104.76mm (4.12inch)
+T2      0.508mm (20mil)                                           Round             1         PTH        0.00mm (0.00inch)
+T3      0.6mm (24mil)                                             Round             30        PTH        124.46mm (4.90inch)
+T4      0.711mm (28mil)                                           Round             1         PTH        0.00mm (0.00inch)
+T5      0.8mm (31mil)                                             Round             15        PTH        100.17mm (3.94inch)
+T6      1.02mm (40mil)                                            Round             35        PTH        252.94mm (9.96inch)
+T7      1.1mm (43mil)                                             Round             3         PTH        5.08mm (0.20inch)
+T8      1.2mm (47mil)                                             Round             4         PTH        48.95mm (1.93inch)
+T9      1.5mm (59mil)                                             Slot              3         PTH        31.02mm (1.22inch)
+T10     1mm (39mil)                                               Round             2         NPTH       2.54mm (0.10inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              99
+
+Total Processing Time (hh:mm:ss) : 00:00:00

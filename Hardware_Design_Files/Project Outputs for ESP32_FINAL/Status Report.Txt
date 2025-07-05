@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ESP32_FINAL.PrjPcb]
+   Generated File[ESP32_FINAL-RoundHoles.TXT]
+   Generated File[ESP32_FINAL-SlotHoles.TXT]
+   Generated File[ESP32_FINAL.LDP]
+   Generated File[ESP32_FINAL.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 6:53:20 AM On 4/13/2024
